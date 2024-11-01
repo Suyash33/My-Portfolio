@@ -1,5 +1,4 @@
 { 
- "homepage": "https://Suyash33.github.io/My-Portfolio",
   "name": "react-portfolio",
   "private": true,
   "version": "0.0.0",
@@ -9,8 +8,6 @@
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-     "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@fontsource/outfit": "^5.0.8",
