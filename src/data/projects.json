@@ -1,0 +1,26 @@
+[
+  {
+    "title": "StudyNotion",
+    "imageSrc": "projects/project.png",
+    "description": "A robust Ed-Tech platform with user authentication, course payments, and high user engagement.",
+    "skills": ["React", "Express", "Node","MongoDB"],
+    "demo": "https://study-notion-frontend-two-theta.vercel.app/",
+    "source": "https://github.com/Suyash33/Study-Notion"
+  },
+  {
+    "title": "Green Guard",
+    "imageSrc": "projects/project.png",
+    "description": "Plant Disease Detection System that uses CNN for image-based disease classification with 92% accuracy.",
+    "skills": ["Python", "Flask", "CNN"],
+    "demo": "https://github.com/Suyash33/Green-Gaurd",
+    "source": "https://github.com/Suyash33/Green-Gaurd"
+  },
+  {
+    "title": "",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to simplify day to day life tasks.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://sb-taskify.vercel.app/",
+    "source": "https://github.com/Suyash33/ToDo-App"
+  }
+]

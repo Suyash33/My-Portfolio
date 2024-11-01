@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Front End Developer Intern",
+    "organisation": "Legitsoft Pvt. Ltd.",
+    "startDate": "Aug, 2023",
+    "endDate": "Sept, 2023",
+    "experiences": ["Developed responsive web interfaces using HTML, CSS, and JavaScript.", "Streamlined design with Bootstrap, ensuring consistency across projects."],
+    "imageSrc": "history/legitsoft.png"
+  },
+  {
+    "role": "AI-ML Virtual Intern",
+    "organisation": "Eduskills",
+    "startDate": "Jan, 2024",
+    "endDate": "Mar, 2024",
+    "experiences": ["Gained hands-on AI/ML experience, focusing on data analysis, model training, and deployment."],
+    "imageSrc": "history/EduSkills.png"
+  }
+]
